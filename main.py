@@ -43,4 +43,4 @@ btn.pack()
 btn = Button(cp, text='Save QR code', command=generate, bd='5', width=15)
 btn.pack()
 
-cp.mainloo
+cp.mainloop
